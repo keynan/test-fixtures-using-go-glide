@@ -1,0 +1,4 @@
+package: github.com/keynan/test-fixtures-using-go-glide
+import:
+- package: github.com/keynan/test-fixtures-leaf-dependency
+  version: ^1.0.0

@@ -1,0 +1,6 @@
+hash: 56eca5c287b279e2e37e94d2d37f81773ac3353193b8ca3c792e599322069d39
+updated: 2018-06-14T15:22:17.194549851+10:00
+imports:
+- name: github.com/keynan/test-fixtures-leaf-dependency
+  version: 2c1f019cf1fd7cd9f05c84ed4ed33bdd496b7104
+testImports: []
